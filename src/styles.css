@@ -21,7 +21,7 @@ div {
     height: 60px;
     border: none;
     border-radius: 50%;
-    background-color: #4CAF50;
+    background-color: #413eff;
     color: white;
     font-size: 24px;
     cursor: pointer;
@@ -33,7 +33,7 @@ div {
 }
 
 .round-button:hover {
-    background-color: #45a049;
+    background-color: #0400fc;
 }
 
 .round-button:active {
