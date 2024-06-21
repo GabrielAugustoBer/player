@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // Cria um objeto de áudio
     var audioPlayer = new Audio(audioUrl);
+
+    audioPlayer.volume = 0.3;
     
     // Adiciona evento ao botão de reprodução
     var playButton = document.getElementById('playButton');
